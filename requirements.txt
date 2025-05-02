@@ -1,14 +1,11 @@
+requests
 pandas
 numpy
 datetime
+beautifulsoup4
+unicodedata
 matplotlib
 seaborn
-sickit-learn
-requests
-beautifulsoup
-sys
-csv
-sqlite3
+sqlalchemy
 folium
-io
--e .
+scikit-learn
